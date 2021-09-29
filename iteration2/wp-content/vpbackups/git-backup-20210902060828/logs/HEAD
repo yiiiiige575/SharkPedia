@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 b175a39f37734e5ded6f8339022e043600146e75 Haoxing Wu <user@example.com> 1629967812 +0000	commit (initial): [VP] Activated VersionPress 4.0-beta2
+b175a39f37734e5ded6f8339022e043600146e75 2176d07f1cd48c2a50aa7849fcca52b0a807628e Non-admin action <nonadmin@example.com> 1630396752 +0000	commit: [VP] Created 2 options
+2176d07f1cd48c2a50aa7849fcca52b0a807628e 2f3040d4f851fc6deb5acd9f7964d0f9b5a01e02 Non-admin action <nonadmin@example.com> 1630396830 +0000	commit: [VP] Updated option 'wp-phpmyadmin-extension'
+2f3040d4f851fc6deb5acd9f7964d0f9b5a01e02 cddfe3a445a42dc68a928ea02f2933b0c96765f5 Zorron <zlia63@student.monash.edu> 1630562902 +0000	commit: [VP] Deactivated VersionPress
