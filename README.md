@@ -9,7 +9,7 @@ Sharkpedia is a platform to reduce shark attacks on people, which is under activ
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
-- [Contributing](#contributing)
+- [Contributor](#contributor)
 - [License](#license)
 
 
@@ -42,15 +42,11 @@ This module depends upon a knowledge of [Markdown]().
 ## API
 
 
-## Contributing
+## Contributor
+[@Zorron233](https://github.com/Zorron233).
 
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
+[@yiiiiige575](https://github.com/yiiiiige575).
 
 ## License
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © SafetyPioneers.]()
